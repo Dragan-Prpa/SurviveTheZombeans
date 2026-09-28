@@ -1,4 +1,4 @@
-Survive the Zombeans 🧟‍♂️🌱
+Survive the Zombeans 
 
 Description:
 Survive the Zombeans is a post-apocalyptic, infinite wave-based zombie survival built using basic Unity shapes and amateur voice acting. Designed with my students, 
